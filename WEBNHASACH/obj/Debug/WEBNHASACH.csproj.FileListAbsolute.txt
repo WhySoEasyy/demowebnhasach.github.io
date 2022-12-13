@@ -1,0 +1,228 @@
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.dll.config
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.pdb
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.exe
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.exe.config
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.rsp
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.exe
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.exe.config
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.rsp
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.AppContext.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Collections.Immutable.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Console.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Globalization.Calendars.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.Compression.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.FileSystem.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Net.Http.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Net.Sockets.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.ValueTuple.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XPath.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.exe
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.exe.config
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.rsp
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\VBCSCompiler.exe
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\roslyn\VBCSCompiler.exe.config
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\Microsoft.Web.Infrastructure.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Helpers.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Mvc.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Razor.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Deployment.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Razor.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Razor.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Deployment.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Razor.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Helpers.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\System.Web.Mvc.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.CoreCompileInputs.cache
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.CopyComplete
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.pdb
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.AssemblyReference.cache
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\EntityFramework.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\EntityFramework.SqlServer.dll
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\EntityFramework.xml
+D:\HOCTAP\KHOALUAN\WEBNHASACH\WEBNHASACH\bin\EntityFramework.SqlServer.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.dll.config
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.pdb
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.exe
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.exe.config
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.rsp
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.exe
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.exe.config
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.rsp
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.AppContext.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Collections.Immutable.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Console.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Globalization.Calendars.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.Compression.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.FileSystem.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Net.Http.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Net.Sockets.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.ValueTuple.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XPath.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.exe
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.exe.config
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.rsp
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\VBCSCompiler.exe
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\roslyn\VBCSCompiler.exe.config
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\EntityFramework.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\EntityFramework.SqlServer.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Helpers.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Mvc.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Razor.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Deployment.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Razor.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\EntityFramework.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\EntityFramework.SqlServer.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Razor.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Deployment.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Razor.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Helpers.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\System.Web.Mvc.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.AssemblyReference.cache
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.CoreCompileInputs.cache
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.CopyComplete
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.dll
+D:\Test\WEB\WEB\WEBNHASACH\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.pdb
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.dll.config
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\WEBNHASACH.pdb
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.exe
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.exe.config
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\csc.rsp
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.exe
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.exe.config
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\csi.rsp
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.AppContext.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Console.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.Compression.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Net.Http.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.ValueTuple.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.exe
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.exe.config
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\vbc.rsp
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\VBCSCompiler.exe
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\EntityFramework.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\EntityFramework.SqlServer.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Helpers.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Mvc.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Razor.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Deployment.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Razor.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\EntityFramework.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\EntityFramework.SqlServer.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Razor.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Deployment.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Webpages.Razor.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Helpers.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\System.Web.Mvc.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.AssemblyReference.cache
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.CoreCompileInputs.cache
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.csproj.CopyComplete
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.dll
+C:\Users\phanl\OneDrive\Máy tính\WEBNHASACH\WEBNHASACH\obj\Debug\WEBNHASACH.pdb

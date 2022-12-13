@@ -1,0 +1,40 @@
+﻿@model WEBNHASACH.Models.SANPHAM
+@{
+    ViewBag.Title = "CTSANPHAM";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <div class="row px-xl-5">
+        <div class="col-12">
+            <nav class="breadcrumb bg-light mb-30">
+                <a class="breadcrumb-item text-dark" href="#">Home</a>
+                <a class="breadcrumb-item text-dark" href="#">Shop</a>
+                <span class="breadcrumb-item active">Shop Detail</span>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+<div class="container-fluid pt-5 pb-3">
+    <div class="row px-xl-5">
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1" style="text-align:justify">
+
+            <div class="product-item bg-light mb-4" id="SanPham">
+                <div class="product-img position-relative overflow-hidden">
+                    <img class="img-fluid w-100" src="@Url.Content("~/Image/"+Model.Anh)" alt="">
+                    <div class="product-action">
+                        <a name="@Model.MASP" onclick="ThemGHSP()"><i class="fa fa-shopping-cart"></i></a>
+                    </div>
+                </div>
+                <div class="text-center py-4">
+                    <a class="h6 text-decoration-none text-truncate" style="display:block" href="">@Model.TENSP</a>
+                    <div class="d-flex align-items-center justify-content-center mt-2">
+                        <h5>@Model.GIA</h5><h5>đ</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

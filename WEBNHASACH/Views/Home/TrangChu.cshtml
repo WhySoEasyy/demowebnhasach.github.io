@@ -1,0 +1,235 @@
+﻿@using WEBNHASACH.Models;
+@model List<SANPHAM>
+@{
+    ViewBag.Title = "TrangChu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*//Carousel Start*@
+<div class="container-fluid mb-3">
+    <div class="row px-xl-5">
+        <div class="col-lg-8">
+            <div id="header-carousel" class="carousel slide carousel-fade mb-30 mb-lg-0" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#header-carousel" data-slide-to="1"></li>
+                    <li data-target="#header-carousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item position-relative active" style="height: 430px;">
+                        <img class="d-block w-100" src="~/img/banner-dep-28.png" style="object-fit: cover;">
+                    </div>
+                    <div class="carousel-item position-relative" style="height: 430px;">
+                        <img class="d-block w-100" src="~/img/6af11a97fe8183c6a94f41b9acbc61ffda81e5132.png" style="object-fit: cover;">
+                    </div>
+                    <div class="carousel-item position-relative" style="height: 430px;">
+                        <img class="d-block w-100" src="~/img/1588654894-784901682-banner-h-i-sach.jpg" style="object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="product-offer mb-30" style="height: 200px;">
+                <img class="img-fluid" src="~/img/285b9e2a56d3c9b693e20b94f84fd6ab.jpg" alt="">
+                <div class="offer-text">
+                    <h6 class="text-white text-uppercase">HOT</h6>
+                    <h3 class="text-white mb-3">Sách bán chạy</h3>
+                    <a href="" class="btn btn-primary">Xem ngay</a>
+                </div>
+            </div>
+            <div class="product-offer mb-30" style="height: 200px;">
+                <img class="img-fluid" src="~/img/24aae83a7fd63c40e9518a67f054846b.jpg" alt="">
+                <div class="offer-text">
+                    <h6 class="text-white text-uppercase">HOT</h6>
+                    <h3 class="text-white mb-3">Sách mới</h3>
+                    <a href="" class="btn btn-primary">Xem ngay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@*Carousel End
+    Categories Start*@
+<div class="container-fluid pt-5">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">DANH MỤC SẢN PHẨM</span></h2>
+    <div class="row px-xl-5 pb-3">
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/100x100_balo.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Balo</h6>
+                        <small class="text-body">45 Sản Phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/100x100_but.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Bút</h6>
+                        <small class="text-body">100 Sản Phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/100x100_tap.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Tập</h6>
+                        <small class="text-body">50 Sản Phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/Sach-tham-khao.jpg" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Sách tham khảo</h6>
+                        <small class="text-body">70 Sản Phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/Sach-hoc-ngoai-ngu.jpg" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Sách ngoại ngữ</h6>
+                        <small class="text-body">65 Sản phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/van-hoc.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Văn học</h6>
+                        <small class="text-body">120 Sản phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/tam-ly-ky-nang.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Tâm lý kỹ năng</h6>
+                        <small class="text-body">100 Sản phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/kinh-te.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Kinh tế</h6>
+                        <small class="text-body">235 Sản phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/foreign-books.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Foreign books</h6>
+                        <small class="text-body">200 Sản phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <a class="text-decoration-none" href="">
+                <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                    <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                        <img class="img-fluid" src="~/img/do-choi.png" alt="">
+                    </div>
+                    <div class="flex-fill pl-3">
+                        <h6>Đồ chơi</h6>
+                        <small class="text-body">130 Sản phẩm</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    </div>
+</div>
+
+<div class="container-fluid pt-5 pb-3">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">SẢN PHẨM NỔI BẬT</span></h2>
+    <div class="row px-xl-5">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1" style="text-align:justify">
+
+                <div class="product-item bg-light mb-4" id="SanPham">
+                    <div class="product-img position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="@Url.Content("~/Image/"+item.Anh)" alt="">
+                        <div class="product-action">
+                            <button class="btn btn-outline-dark btn-square" href="" style="text-align:justify" name="@item.MASP" onclick="ThemGHSP()"><i class="fa fa-shopping-cart"></i></button>
+                            <a class="btn btn-outline-dark btn-square" href="@Url.Action("CTSANPHAM", "Home", new {@MASP=item.MASP })"><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                    <div class="text-center py-4">
+                        <a class="h6 text-decoration-none text-truncate" style="display:block" href="">@item.TENSP</a>
+                        <div class="d-flex align-items-center justify-content-center mt-2">
+                            <h5>@item.GIA</h5><h5>đ</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<script>
+    function ThemGHSP() {
+        var xhr;
+        var data = new FormData();
+        var xn = event.target.name;
+        data.append("MaXnGH", xn);
+        data.append("XacNhan", "DN");
+        xhr = new XMLHttpRequest();
+        xhr.open('POST', '/Home/TrangChu', true);
+        xhr.send(data);
+        xhr.onreadystatechange = function (response) {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                value = xhr.responseText;
+                alert(value);
+                window.location.reload();
+            }
+        };
+        e.preventDefault();
+    }
+</script>

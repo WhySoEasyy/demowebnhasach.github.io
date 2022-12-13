@@ -1,0 +1,138 @@
+﻿@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using System.Linq;
+@using WEBNHASACH.Models;
+@using System;
+@{
+    @model List<GIOHANG>
+    <!-- Breadcrumb Start -->
+    <div class="container-fluid">
+        <div class="row px-xl-5">
+            <div class="col-12">
+                <nav class="breadcrumb bg-light mb-30">
+                    <a class="breadcrumb-item text-dark" href="/Home/TrangChu">Trang Chủ</a>
+                    <a class="breadcrumb-item text-dark" href="/BanHang/SanPham">Sản Phẩm</a>
+                    <span class="breadcrumb-item active">Giỏ Hàng</span>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb End -->
+    <!-- Cart Start -->
+    <div class="container-fluid">
+        <div class="row px-xl-5">
+            <div class="col-lg-8 table-responsive mb-5">
+                <table class="table table-light table-borderless table-hover text-center mb-0">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Ảnh</th>
+                            <th>Sản phẩm</th>
+                            <th>Giá</th>
+                            <th>Số Lượng</th>
+                            <th>Tổng Tiền</th>
+                            <th>Hủy</th>
+                        </tr>
+                    </thead>
+                    <tbody class="align-middle"> 
+                        @{
+                            double TongTien = 0;
+                            foreach (var item in Model)
+                            {
+
+                                TongTien = TongTien + Convert.ToDouble(item.TONGTIEN);
+                            <tr>
+                                <td><img src="@Url.Content("~/Image/" + item.ANH)" alt="" style="height: 60px;"></td>
+                                <td class="align-middle">@item.TENSP</td>
+                                <td class="align-middle">@item.GIA</td>
+                                <td class="align-middle">
+                                    <div class="input-group quantity mx-auto" style="width: 100px;">
+                                        <div class="input-group-btn">
+                                            <button class="btn btn-sm btn-primary btn-minus">
+                                                <i class="fa fa-minus"></i>
+                                            </button>
+                                        </div>
+                                        <input type="text" class="form-control form-control-sm bg-secondary border-0 text-center" value="@item.SOLUONG">
+                                        <div class="input-group-btn">
+                                            <button class="btn btn-sm btn-primary btn-plus">
+                                                <i class="fa fa-plus"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="align-middle">@item.TONGTIEN </td>
+                                <td class="align-middle"><input id="BtnHuyP1" type="submit" value="Hủy" name="@item.TENSP" onclick="XoaSP1()" class="btn btn-sm btn-danger" /></td>
+                            </tr>
+                            } }
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-lg-4">
+                <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Cart Summary</span></h5>
+                <div class="bg-light p-30 mb-5">
+                    <div class="border-bottom pb-2">
+                        <div class="d-flex justify-content-between mb-3">
+                            <h6>Mã khách hàng</h6>
+                            <h6>@Session["idUser"]</h6>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-medium">Tên khách hàng</h6>
+                            <h6 class="font-weight-medium">@Session["FullName"]</h6>
+                        </div>
+                    </div>
+                    <div class="pt-2">
+                        <div class="d-flex justify-content-between mt-2">
+                            <h5>Tổng tiền</h5>
+                            <h5>@TongTien</h5>
+                        </div>
+                        <button class="btn btn-block btn-primary font-weight-bold my-3 py-3" name="@TongTien" onclick="ThanhToan()">Thanh toán</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Cart End -->
+ }
+<script>
+    function XoaSP1() {
+        var data, xhr;
+        data = new FormData();
+        var xn = event.target.name;
+        data.append('MaXnSP3', xn);
+        data.append('XacNhan', "btnHuySP");
+        xhr = new XMLHttpRequest();
+        xhr.open('POST', '/GioHang/GioHang', true);
+        xhr.send(data);
+        xhr.onreadystatechange = function (response) {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                value = xhr.responseText;
+                alert(value);
+                window.location.reload();
+            }
+        };
+        e.preventDefault();
+    }
+</script>
+<script>
+    function ThanhToan() {
+        var xn = event.target.name;
+        var data, xhr;
+        data = new FormData();
+        data.append('XacNhan', "btnThanhToan");
+        data.append('TTthanhtoan', xn);
+        xhr = new XMLHttpRequest();
+        xhr.open('POST', '/GioHang/GioHang', true);
+        xhr.send(data);
+        xhr.onreadystatechange = function (response) {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                value = xhr.responseText;
+                alert(value);
+                window.location.reload();
+            }
+        };
+        e.preventDefault();
+    }
+</script>
+
+
